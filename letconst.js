@@ -5,4 +5,11 @@ const a=10;
  ara[1]=2333;
   
 
-  console.log(ara[0]);
+  console.log(ara[1]);
+
+
+
+
+
+
+  //node letconst.js
